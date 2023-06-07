@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/nwitter/static/css/main.641f1eb0.css",
-    "main.js": "/nwitter/static/js/main.86a12544.js",
+    "main.js": "/nwitter/static/js/main.2dcbc9c0.js",
     "index.html": "/nwitter/index.html",
     "main.641f1eb0.css.map": "/nwitter/static/css/main.641f1eb0.css.map",
-    "main.86a12544.js.map": "/nwitter/static/js/main.86a12544.js.map"
+    "main.2dcbc9c0.js.map": "/nwitter/static/js/main.2dcbc9c0.js.map"
   },
   "entrypoints": [
     "static/css/main.641f1eb0.css",
-    "static/js/main.86a12544.js"
+    "static/js/main.2dcbc9c0.js"
   ]
 }
